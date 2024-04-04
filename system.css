@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.iam{
+   border: 2px solid red;
+}
+body{
+    width: 550px;
+   }
+div{
+    margin: 10px;
+    border: 2px solid red;
+    background-color: beige;
+}
+span{
+    border: 2px solid blue;
+}
